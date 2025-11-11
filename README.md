@@ -1,8 +1,32 @@
-# Vue 3 + Vite
+**Team members & roles**
+- Rayray, Jhemuel L.  - Developer
+- Mangaoang Jr., Mark CLifford - Developer
+- Catli, Bernald F. - Scrum Master
+- Cudia, Jerry - Tester
+  
+**Product Owner (Chairperson consulted)**
+- Sir Joe Mariel Mejia
+  
+**Description of contributions per member**
+Rayray, Jhemuel L. – Developer
+Developed the main About.vue, hero section, mission-vision-values section, and leadership profiles.
+Implemented responsive design using CSS Grid and Flexbox.
+Integrated interactive components such as feature cards and hero statistics.
+Built deployment scripts and handled GitHub Pages deployment.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Mangaoang Jr., Mark Clifford – Developer
+Developed core functionality for features section and campus life components.
+Added animations, hover effects, and gradient styling to enhance UI/UX.
+Assisted in optimizing images and assets for faster load times.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-"# college-website" 
-"# chcc-web" 
-"# chcc-web" 
+Catli, Bernald F. – Scrum Master
+Coordinated project tasks, sprint planning, and milestone tracking.
+Facilitated communication between developers and testers.
+Ensured that project followed Agile principles and met deadlines.
+
+Cudia, Jerry – Tester
+Conducted functional testing and cross-browser testing.
+Reported bugs and ensured responsiveness across devices.
+Verified that all features meet project requirements and specifications.
+
+
