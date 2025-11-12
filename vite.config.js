@@ -4,11 +4,10 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/chcc-website/',
+  base: '/',
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, 'src')  // <-- Add this
+      '@': path.resolve(__dirname, 'src')  // <-- Keep this for @ alias
     }
-    
   }
 })
